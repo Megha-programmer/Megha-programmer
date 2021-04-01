@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Megha Gupta
-- 👀 I’m interested in learning new skills
-- 🌱 I’m currently leaning programming
+- 👋 Hi, I’m Megha Gupta.
+- 👀 I’m interested in learning new skills.
+- 🌱 I’m currently learning programming.
 - 📫 How to reach me ...👉meghag.2399@gmail.com
 
 <!---
